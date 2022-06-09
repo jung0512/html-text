@@ -1,6 +1,6 @@
 # html
 html로 만든 웹페이지
-header 결과 화면
+header 결과 화면<br>
 ![image](https://user-images.githubusercontent.com/102035198/172751315-da5a6cf1-7f97-4589-aba0-48447a9fa528.png)<br>
 ![image](https://user-images.githubusercontent.com/102035198/172751245-7d06581c-d454-4e40-9fa3-17b22ed7bb6e.png)<br>
 사진을 html 소스코드로 넣은 다음 <br>
