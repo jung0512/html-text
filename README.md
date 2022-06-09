@@ -24,5 +24,5 @@ html 코드<br>
 ![image](https://user-images.githubusercontent.com/102035198/172752286-fdb81a33-578f-43de-a7ab-364eef3635b9.png)<br>
 css 코드<br>
 ![image](https://user-images.githubusercontent.com/102035198/172752312-3fdf4790-13e5-4000-a752-69bbe1569824.png)<br>
-width와 height값을 이용해 크기를 조절후 background-color를 이용해서 배경색을 지정후 text-align으로 텍스트를 가운데로 이동하여 웹페이지를 만들었다<
+width와 height값을 이용해 크기를 조절후 background-color를 이용해서 배경색을 지정후 text-align으로 텍스트를 가운데로 이동하여 웹페이지를 만들었다
 
